@@ -38,7 +38,7 @@ Autonomous Driving, Robotics, AGI, NLP, AI Chip, Computer Architecture
 - **Robust Hierarchical Federated Learning** (Nov 2023 - Present)  
   - Design an efficient and secure semi-synchronous aggregation algorithm in the HFL framework. Now doing possible various attempts to optimize the training process in the HFL framework. Now working hard to meet the NeurIPS deadline.
 - **Fed-Credit: Robust Federated Learning with Credibility Management** (Mar 2023 - Dec 2023)  
-  - Proposed a robust federated learning framework based on Credibility value to resist various potential attacks during federated learning training. The paper was submmited to TOPS (Under Review).
+  - Proposed a robust federated learning framework based on Credibility value to resist various potential attacks during federated learning training. The [paper](http://ryan-utopia.com/files/paper_fed_credit.pdf) was submmited to TOPS (Under Review).
 - **The "[One Lifetime One Chip](https://ysyx.oscc.cc/)" program**  (Aug 2023 - Present)
   - It’s a program primarily aims to provide participating students with exposure to the entire process of chip development and flow, allowing students to have a RISC-V chip of their own.	
   - I am very interested in the development of AI chips, and I joined immediately after learning about this project. I have currently completed all content in the pre-learning stage, and after passing the defense, I am about to enter the learning phase B & A.
