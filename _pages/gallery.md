@@ -14,6 +14,8 @@ It's the first time I've seen the sun shining on the snow mountains. It's really
 ## World Mystery Town, Karamay, Xinjinag, China, Jul 2024
 <div align=center> <img src='/images/xinjiang.jpeg' width="600"></div>
 
+Hope that the future is as uneventful and beautiful as she wants it to be.
+
 ##  Fenghaung Mountain, Zhuhai, Guangdong, China, Oct 2022  
 <img src='/images/fenghuangshan.jpeg'>
 
