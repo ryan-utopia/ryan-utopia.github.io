@@ -11,7 +11,7 @@ author_profile: true
 
 It's the first time I've seen the sun shining on the snow mountains. It's really spectacular.
 
-## World Mystery Town, Karamay, Xinjinag, China, Jul 2024
+## World Mystery Town, Karamay, Xinjiang, China, Jul 2023
 <div align=center> <img src='/images/xinjiang.jpeg' width="600"></div>
 
 Hope that the future is as uneventful and beautiful as she wants it to be.
