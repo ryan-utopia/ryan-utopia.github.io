@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Jiayan Chen (陈嘉焰)
-Junior undergraduate in Beijing Normal University(Zhuhai)<br />
+Junior undergraduate in Beijing Normal University (Zhuhai)<br />
 Artificial Intelligence (Innovation Program)<br />
 *This page was updated on 25th April, 2024*
 <font color="#000080"> I am looking for a Ph.D/Mphil position in 2025 fall, please contact me if you are interested in me! </font>
@@ -21,7 +21,7 @@ Artificial Intelligence (Innovation Program)<br />
   - B.Eng. Artificial Intelligence (Innovation Program)
 - **RA in Institute of AI and Future Networks**, Beijing Normal University (Mar 2023 – Present)
   - Conducted federated learning research under the guidance of Dr. Tianhui Meng, Prof. Tian Wang and Prof. Weijia Jia.  
-- **Intern in IRPN LAB**, HKUST(GZ) (Apr 2024 – Present)
+- **Intern in IRPN LAB**, HKUST (GZ) (Apr 2024 – Present)
   - Supervised by Dr. Haoang Li, now focusing on autonomous driving data generation.
 
 ## Potential Research Interests
