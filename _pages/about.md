@@ -25,7 +25,7 @@ Artificial Intelligence (Innovation Program)<br />
   - Supervised by Dr. Haoang Li, now focusing on autonomous driving data generation.
 
 ## Potential Research Interests
-Autonomous Driving, Robotics, AGI, NLP, AI Chip, Computer Architecture
+Autonomous Driving, Robotics, AI Chip, Artificial General Intelligence
 
 ## Skills
 
@@ -52,3 +52,4 @@ Autonomous Driving, Robotics, AGI, NLP, AI Chip, Computer Architecture
 3. (2022-2023) **Outstanding Student Cadre**, Beijing Normal University.
 4. (Sep 2023) **Second Prize in CUMCM**, Guangdong Division.
 5. (May 2023) **Third Prize in China University Computer Design Contest**, Guangdong Division.
+6. (April 2024) **Third Prize in the 15th lanqiao Cup (C/C++)**, Guangdong Division.
