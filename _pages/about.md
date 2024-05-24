@@ -11,7 +11,9 @@ redirect_from:
 # Jiayan Chen (陈嘉焰)
 Junior undergraduate in Beijing Normal University (Zhuhai)<br />
 Artificial Intelligence (Innovation Program)<br />
-*This page was updated on 25th April, 2024*
+
+*This page was updated on 24th May, 2024*
+
 <font color="#000080"> I am looking for a Ph.D/Mphil position in 2025 fall, please contact me if you are interested in me! </font>
 
 ## Education and Experience
@@ -25,7 +27,7 @@ Artificial Intelligence (Innovation Program)<br />
   - Supervised by Dr. Haoang Li, now focusing on autonomous driving data generation.
 
 ## Potential Research Interests
-Autonomous Driving, Robotics, AI Chip, Artificial General Intelligence
+Autonomous Driving, AI Chip, Federated Learning, AIGC
 
 ## Skills
 
@@ -35,8 +37,8 @@ Autonomous Driving, Robotics, AI Chip, Artificial General Intelligence
 
 ## Projects
 
-- **Robust Hierarchical Federated Learning** (Nov 2023 - Present)  
-  - Design an efficient and secure semi-synchronous aggregation algorithm in the HFL framework. Now doing possible various attempts to optimize the training process in the HFL framework. Now working hard to meet the NeurIPS deadline.
+- **Semi-Synchronous Hierarchies and Credibility Management for Robust Federated Learning** (Nov 2023 - Present)  
+  - Design an efficient and secure semi-synchronous aggregation algorithm in the HFL framework. Now doing possible various attempts to optimize the training process in the HFL framework. The [paper](http://ryan-utopia.com/files/paper_semi_fl.pdf) was submmited to NeurIPS 2024.
 - **Fed-Credit: Robust Federated Learning with Credibility Management** (Mar 2023 - Dec 2023)  
   - Proposed a robust federated learning framework based on Credibility value to resist various potential attacks during federated learning training. The [paper](http://ryan-utopia.com/files/paper_fed_credit.pdf) was submmited to TOPS (Under Review).
 - **The "[One Lifetime One Chip](https://ysyx.oscc.cc/)" program**  (Aug 2023 - Present)
