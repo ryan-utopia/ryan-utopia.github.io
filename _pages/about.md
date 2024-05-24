@@ -22,7 +22,7 @@ Artificial Intelligence (Innovation Program)<br />
 - **Beijing Normal University**（Sep 2021 – Present）
   - B.Eng. Artificial Intelligence (Innovation Program)
 - **RA in Institute of AI and Future Networks**, Beijing Normal University (Mar 2023 – Present)
-  - Conducted federated learning research under the guidance of Dr. Tianhui Meng, Prof. Tian Wang and Prof. Weijia Jia.  
+  - Conducted federated learning research under the guidance of Prof. Tianhui Meng, Prof. Tian Wang and Prof. Weijia Jia.  
 - **Intern in IRPN LAB**, HKUST (GZ) (Apr 2024 – Present)
   - Supervised by Dr. Haoang Li, now focusing on autonomous driving data generation.
 
