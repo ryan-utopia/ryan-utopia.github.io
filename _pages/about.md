@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 # Jiayan Chen (陈嘉焰)
-Junior undergraduate in Beijing Normal University (Zhuhai)<br />
+Junior undergraduate in Beijing Normal University (BNU)<br />
 Artificial Intelligence (Innovation Program)<br />
 
-*This page was updated on 24th May, 2024*
+*This page was updated on 6th June, 2024*
 
 <font color="#000080"> I am looking for a Ph.D/Mphil position in 2025 fall, please contact me if you are interested in me! </font>
 
@@ -27,7 +27,7 @@ Artificial Intelligence (Innovation Program)<br />
   - Supervised by Dr. Haoang Li, now focusing on autonomous driving data generation.
 
 ## Potential Research Interests
-Autonomous Driving, AI Chip, Federated Learning, AIGC
+Autonomous Driving, ML systems, High-Performance Computing, GPGPUs, Federated Learning.
 
 ## Skills
 
@@ -37,6 +37,8 @@ Autonomous Driving, AI Chip, Federated Learning, AIGC
 
 ## Projects
 
+- **The generation of 3DGS scenarios for autonomous roadways based on Bird’s Eye View (BEV)** (2024.04 - Present)
+  - Currently, I am co-responsible for the code development for incremental Gaussian generation.
 - **Semi-Synchronous Hierarchies and Credibility Management for Robust Federated Learning** (Nov 2023 - Present)  
   - Design an efficient and secure semi-synchronous aggregation algorithm in the HFL framework. Now doing possible various attempts to optimize the training process in the HFL framework. The [paper](http://ryan-utopia.com/files/paper_semi_fl.pdf) was submmited to NeurIPS 2024.
 - **Fed-Credit: Robust Federated Learning with Credibility Management** (Mar 2023 - Dec 2023)  
