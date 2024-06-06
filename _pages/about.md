@@ -14,7 +14,7 @@ Artificial Intelligence (Innovation Program)<br />
 
 *This page was updated on 6th June, 2024*
 
-<font color="#000080"> I am looking for a Ph.D/Mphil position in 2025 fall, please contact me if you are interested in me! </font>
+<font color="#000080"> I am looking for a Ph.D position in 2025 fall, please contact me if you are interested in me! </font>
 
 ## Education and Experience
 
