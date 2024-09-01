@@ -7,6 +7,11 @@ author_profile: true
 
 # Gallery
 
+## Guihaiqinglan, Guilin, Guangxi, China, Aug 2024
+<img src='/images/guilin.jpg'>
+
+Hope this Guilin landscape heals you.
+
 ## Astronomical Observatory, Shenzhen, Guangdong, China, Jul 2024
 <img src='/images/Shenzhen-Tianwentai.jpg'>
 
@@ -15,6 +20,7 @@ Hawking: Remember to look up at the stars and not down at your feet.
 ## Jade Dragon Snow Mountain, Lijiang, Yunnan, China, Jan 2024
 <div align=center> <img src='/images/snow-yunnan.jpg' width="600"></div>
 <img src='/images/rizhaojinshan.jpeg'>
+
 It's the first time I've seen the sun shining on the snow mountains. It's really spectacular.
 
 ## World Mystery Town, Karamay, Xinjiang, China, Jul 2023

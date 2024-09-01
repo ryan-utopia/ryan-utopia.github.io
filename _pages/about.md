@@ -31,7 +31,7 @@ Autonomous Driving, ML systems, High-Performance Computing, GPGPUs, Federated Le
 
 ## Skills
 
-- **Languages**：Native in Cantonese & Mandarin, Professional Working Proficiency in English.
+- **Languages**：Native in Cantonese & Mandarin, Professional Working Proficiency in English, IELTS: 6.5.
 - **Coding**: Python, C++, Markdown, Matlab, LATEX, Verilog, . . .
 - **Tools**: ChatGPT, Pytorch, Git, Unix Shell, VS Code, Jupyter, DaVinci Resolve, . . .
 
