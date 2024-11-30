@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # Gallery
+## ARTS 2024, SYSU, Shenzhen, Guangdong, China, Nov 2024
+<img src='/images/ARTS2024.jpg'>
 
 ## Guihaiqinglan, Guilin, Guangxi, China, Aug 2024
 <img src='/images/guilin.jpg'>
