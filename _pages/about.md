@@ -21,7 +21,7 @@ Major in Artificial Intelligence
 
 ## Experience
 
-**RA in Institute of AI and Future Networks**
+**Rresearch Assistant in Institute of AI and Future Networks**
 - Beijing Normal University *(Mar 2023 – June 2024)*
 - Supervised by Prof. Tianhui Meng, focusing on robust federated learning.
   
