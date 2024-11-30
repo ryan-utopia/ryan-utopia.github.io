@@ -33,7 +33,7 @@ Major in Artificial Intelligence
 - Sun Yat-sen University *(Nov 2024 - Present)*
 - Supervised by Prof. Boyu Zhou, focusing on efficient 3D reconstruction.
 
-## Potential Research Interests
+## Research Interests
 Deep Learning,   Robotics,   Machine Learning Systems,   3D Reconstruction
 
 <!-- ## Skills
